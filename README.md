@@ -77,7 +77,7 @@ It is a better practice to keep the `local copy` in sync with the `original repo
 ```
 
 ### 5. Ready for the contribution 🌝
-Once you are done with the above steps, you are ready to contribute to the `Grind-DSA` project code. Check out the `issues` tab of the `original repository` and solve them. Once you are done with your changes, submit your efforts with a `pull request`
+Once you are done with the above steps, you are ready to contribute to the `Grind-DSA` project code. Check out the `Code_Template.py` file of the `original repository` and solve the bugs or add new problems and solutions. Once you are done with your changes, submit your efforts with a `pull request`
 
 ## Hold on! Instructions are not done yet 🌚
 
@@ -125,7 +125,7 @@ Here, `changetype_name` refers to the branch in your remote repository
 
 Finally, Navigate to your forked `Grind-DSA` repository in the browser, where you will see `compare and pull requests`. Kindly click and then add a relevant `title` and `description` to your pull request that defines your valuable effort. 🥳✅️
 
-### Code should be fully functional and should produce the correct result, else pull request can't be merged.
+Code should be fully functional and should produce the correct result, else pull request can't be merged.
 
 ## Help and improve the project better 📈🤗
 

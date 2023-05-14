@@ -125,6 +125,8 @@ Here, `changetype_name` refers to the branch in your remote repository
 
 Finally, Navigate to your forked `Grind-DSA` repository in the browser, where you will see `compare and pull requests`. Kindly click and then add a relevant `title` and `description` to your pull request that defines your valuable effort. 🥳✅️
 
+### Code should be fully functional and should produce the correct result, else pull request can't be merged.
+
 ## Help and improve the project better 📈🤗
 
 Please discuss your concerns with [Tharun Kumar Reddy Polu](https://www.linkedin.com/in/polu-tharun-kumar-reddy/) before creating a new issue. 😉

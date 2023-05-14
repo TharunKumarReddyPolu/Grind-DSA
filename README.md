@@ -5,12 +5,12 @@
 
 ## Contents
 
-[1. Fork the project 🔪](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant/edit/master/README.md#1-fork-the-project-) <br>
-[2. Clone the forked repository 📥](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant/edit/master/README.md#2-clone-the-forked-repository-)<br>
-[3. Let us Setup 🔧⚙️](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant/edit/master/README.md#3-let-us-setup-%EF%B8%8F)<br>
-[4. Keep in sync always♻️ (best practice🤝🏻) ](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant/edit/master/README.md#4-keep-in-sync-always%EF%B8%8F-best-practice)<br>
-[5. Ready for the contribution 🌝](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant#5-ready-for-the-contribution-)<br>
-[6. Create a new branch 🌱](https://github.com/TharunKumarReddyPolu/Tweety-Virtual-Voice-Assistant#7-create-a-new-branch-)<br>
+[1. Fork the project 🔪](https://github.com/TharunKumarReddyPolu/Grind-DSA#1-fork-the-project-) <br>
+[2. Clone the forked repository 📥](https://github.com/TharunKumarReddyPolu/Grind-DSA#2-clone-the-forked-repository-)<br>
+[3. Let us Setup 🔧⚙️](https://github.com/TharunKumarReddyPolu/Grind-DSA#3-let-us-setup-%EF%B8%8F)<br>
+[4. Keep in sync always♻️ (best practice🤝🏻) ](https://github.com/TharunKumarReddyPolu/Grind-DSA#4-keep-in-sync-always%EF%B8%8F-best-practice)<br>
+[5. Ready for the contribution 🌝](https://github.com/TharunKumarReddyPolu/Grind-DSA#5-ready-for-the-contribution-)<br>
+[6. Create a new branch 🌱](https://github.com/TharunKumarReddyPolu/Grind-DSA#6-create-a-new-branch-)<br>
 
 
 ### 1. Fork the project 🔪

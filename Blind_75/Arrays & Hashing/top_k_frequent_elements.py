@@ -27,6 +27,7 @@ class Solution:
                 res.append(n)
                 if len(res) == k:
                     return res
+        return res
     
 s = Solution()
 print(s.topKFrequent([1,1,1,2,2,3], 2))
